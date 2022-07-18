@@ -1,0 +1,7 @@
+E:\远控\csharpclient\client\bin\Debug\client.exe.config
+E:\远控\csharpclient\client\bin\Debug\client.exe
+E:\远控\csharpclient\client\bin\Debug\client.pdb
+E:\远控\csharpclient\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\远控\csharpclient\client\obj\Debug\client.exe
+E:\远控\csharpclient\client\obj\Debug\client.pdb
+E:\远控\csharpclient\client\obj\Debug\client.csproj.AssemblyReference.cache
